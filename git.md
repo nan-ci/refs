@@ -11,7 +11,7 @@ You can use the links belows which are from official sources, but you can find a
 
 ### Github
 - [Try](https://try.github.io) simulator
-- https://help.github.com/articles/git-and-github-learning-resources
+- [help](https://help.github.com/articles/git-and-github-learning-resources)
 
 #### Cheat Sheet
 - [git & github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) Bookmark it!
