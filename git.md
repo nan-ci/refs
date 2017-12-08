@@ -16,7 +16,7 @@ You can use the links belows which are from official sources, but you can find a
 - [help](https://help.github.com/articles/git-and-github-learning-resources)
 
 #### Cheat Sheet
-- [git & github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) Bookmark it!
+- [git (by Github)](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) Bookmark it!
 
 
 ## Advanced
