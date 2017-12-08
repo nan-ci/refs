@@ -3,7 +3,7 @@
 It is really important you understand what is Git (& Github) and how it works, take time to find out!
 You can use the links belows which are from official sources, but you can find a lot more resources online. 
 
-### Official Git References (https://git-scm.com)
+### Git
 - documentation [[en](https://git-scm.com/book/en/v2/)] [[fr](https://git-scm.com/book/fr/v2/)]
   - getting started [[en](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)] [[fr](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-%C3%80-propos-de-la-gestion-de-version)]
   - basics [[en](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)] [[fr](https://git-scm.com/book/fr/v2/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git)]
