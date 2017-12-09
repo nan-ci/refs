@@ -1,0 +1,18 @@
+> Commented code exemples for JavaScript
+
+[Primitive and Operators](https://github.com/nan-ci/refs/blob/master/examples/primitive-and-operators.js) - [:clapper:](https://scrimba.com/c/cwyaEAd)  
+[Variables](https://github.com/nan-ci/refs/blob/master/examples/variables.js) - [:clapper:](https://scrimba.com/c/cLrBKA8)  
+[Data-Structures](https://github.com/nan-ci/refs/blob/master/examples/data-structures.js) - [:clapper:](https://scrimba.com/c/c9Py3sG)  
+[Get](https://github.com/nan-ci/refs/blob/master/examples/get.js) - [:clapper:](https://scrimba.com/c/cvzg2Tq)  
+[Set](https://github.com/nan-ci/refs/blob/master/examples/set.js) - [:clapper:](https://scrimba.com/c/cbWrGcg)  
+[Functions](https://github.com/nan-ci/refs/blob/master/examples/functions.js)  
+[Methods](https://github.com/nan-ci/refs/blob/master/examples/methods.js)  
+[Ternary](https://github.com/nan-ci/refs/blob/master/examples/ternary.js)  
+[If / Else](https://github.com/nan-ci/refs/blob/master/examples/if-else.js)  
+[While](https://github.com/nan-ci/refs/blob/master/examples/while.js)  
+[Recursion](https://github.com/nan-ci/refs/blob/master/examples/recursion.js)  
+[Functions as Values](https://github.com/nan-ci/refs/blob/master/examples/functions-as-values.js)  
+[Callback](https://github.com/nan-ci/refs/blob/master/examples/callback.js)  
+[Event](https://github.com/nan-ci/refs/blob/master/examples/event.js)  
+[Stream](https://github.com/nan-ci/refs/blob/master/examples/stream.js)  
+[Promise](https://github.com/nan-ci/refs/blob/master/examples/promise.js)  
