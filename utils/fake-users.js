@@ -1,0 +1,17 @@
+const users = [ 
+  { name: 'kouame fofana', email: 'k.fofana@mail.co', age: 19 },
+  { name: 'seydou koné', email: 's.koné@mail.co', age: 23 },
+  { name: 'abdoulaye koné', email: 'a.koné@mail.co', age: 18 },
+  { name: 'fanta bamba', email: 'f.bamba@mail.co', age: 26 },
+  { name: 'karidja coulibaly', email: 'k.coulibaly@mail.co', age: 21 },
+  { name: 'siaka traoré', email: 's.traoré@mail.co', age: 18 },
+  { name: 'ahou bakayoko', email: 'a.bakayoko@mail.co', age: 27 },
+  { name: 'naminata dao', email: 'n.dao@mail.co', age: 20 },
+  { name: 'naminata koné', email: 'n.koné@mail.co', age: 23 },
+  { name: 'awa coulibaly', email: 'a.coulibaly@mail.co', age: 17 },
+  { name: 'drissa coulibaly', email: 'd.coulibaly@mail.co', age: 20 },
+  { name: 'adjoua traoré', email: 'a.traoré@mail.co', age: 25 },
+  { name: 'aya dao', email: 'a.dao@mail.co', age: 18 },
+  { name: 'siaka koné', email: 's.koné@mail.co', age: 22 },
+  { name: 'sita touré', email: 's.touré@mail.co', age: 24 },
+]
