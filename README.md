@@ -9,4 +9,7 @@ References to get started
     - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) [en] :book:
     - [The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) [en] :clapper:
     - [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/playlists) (youtube channel) [en] :clapper:
-    
+    - [JavaScript 30](https://javascript30.com/) [en] (tuto) :book: + :clapper:
+  - css & html
+    - codecademy html et css [en](https://www.codecademy.com/en/tracks/web) [fr](https://www.codecademy.com/fr/tracks/web) (tuto)
+    - [css flexbox](https://flexbox.io/) [en] (tuto) :book: + :clapper:
